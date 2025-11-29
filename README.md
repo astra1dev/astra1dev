@@ -42,10 +42,15 @@ Welcome 👋
 
 </p>
 
+<hr>
+
+<h3 align="left">❤️ Support Me:</h3>
+
+![](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white) 
+- `466KjHqbnXUcDtUpibG4fBhcwNdSpR1CEiM31Cq9mmys35STBJUEjBCcXgvaUzVLqycohtWtRbcLtLCVxup7MdRn49AJHn7`
 
 <hr>
 <h3 align="left">📊 GitHub Stats:</h3>
-
 
 
 ![](https://github-readme-stats.vercel.app/api?username=astra1dev&show_icons=true&locale=en&theme=merko)<br/>
