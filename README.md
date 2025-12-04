@@ -6,20 +6,20 @@ Welcome 👋
      
 <h3 align="left">✨ About me:</h3>
      
-- [👨‍💻] python, c++, c# dev
+- 👨‍💻 python, c++, c# dev
 
-- [🐧] arch user (btw)
+- 🐧 arch user (btw)
   
-- [🏫] high school student
+- 🏫 college student
 
-- [♟️] chess player
+- ♟️ chess player
   
-- [👾] hiding in the [matrix](https://matrix.org/)
+- 👾 hiding in the [matrix](https://matrix.org/)
   
-- [🤫] caring about data protection
+- 🤫 caring about data protection
 
-- [🤓] currently learning reverse engineering
-  
+- 🤓 currently learning reverse engineering
+
 
 <hr>
 
