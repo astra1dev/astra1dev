@@ -59,6 +59,8 @@ Welcome 👋
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=astra1dev&show_icons=true&locale=en&layout=compact&theme=merko)<br/>
 
+[![trophy](https://github-profile-trophy-fork-two.vercel.app?username=astra1dev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 <hr>
 
 <h3 align="left">✍️ Random Dev Quote:</h3>
