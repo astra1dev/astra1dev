@@ -53,11 +53,11 @@ Welcome 👋
 <h3 align="left">📊 GitHub Stats:</h3>
 
 
-![](https://github-readme-stats.vercel.app/api?username=astra1dev&show_icons=true&locale=en&theme=merko)<br/>
+![](https://github-readme-stats.vercel.app/api?username=astra1dev&show_icons=true&locale=en&theme=catppuccin_mocha)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=astra1dev&theme=merko)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=astra1dev&theme=catppuccin_mocha)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=astra1dev&show_icons=true&locale=en&layout=compact&theme=merko)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=astra1dev&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha)<br/>
 
 [![trophy](https://github-profile-trophy-sigma-one.vercel.app/?username=astra1dev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
