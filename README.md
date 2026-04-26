@@ -59,7 +59,7 @@ Welcome 👋
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=astra1dev&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha)<br/>
 
-[![trophy](https://github-profile-trophy-sigma-one.vercel.app/?username=astra1dev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-sigma-one.vercel.app/?username=astra1dev&theme=dracula&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
