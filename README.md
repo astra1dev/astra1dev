@@ -16,7 +16,7 @@ Welcome 👋
   
 - 👾 hiding in the [matrix](https://matrix.org/)
   
-- 🤫 caring about data protection & privacy
+- 🤫 caring about data protection & [privacy](https://www.privacyguides.org/en/basics/why-privacy-matters/)
 
 - 🤓 currently learning reverse engineering
 
